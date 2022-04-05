@@ -1,0 +1,12 @@
+{
+   "meta":{
+      "pubInterval":"5000"
+   },
+   "ssid":"1317-2.4G",
+   "w_pw":"kpu123456!",
+   "org":"ullf41",
+   "devType":"vDev",
+   "devId":"dev_lux",
+   "token":"passw0rd",
+   "config":"done"
+}
