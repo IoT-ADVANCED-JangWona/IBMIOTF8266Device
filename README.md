@@ -1,6 +1,7 @@
 # IBMIOTF8266Device
 
 Creating an IBMIOT8266 Device with Lux Sensor
+
 Videos include checking connecting and events from the IoT Platform console,
 changing metadata, remote reboots, and node-red Dashboard.
 
